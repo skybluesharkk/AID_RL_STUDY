@@ -54,3 +54,10 @@
 | 5주차 | 김태균 |[ch06](https://well-bagel-d92.notion.site/5-ch06-1f833c9b1bdd802c89eed784d2e4433a?pvs=4)|
 | 5주차 | 박비원 ||
 | 5주차 | 전진혁 |[ch06](https://www.notion.so/Chapter-6-1f9681b6c41580918124db1d0817b217?pvs=4)|
+
+| 주차 | 이름          | 링크                     |
+|:----:|:-------------:|:------------------------:|
+| 6주차 | 심영찬 ||
+| 6주차 | 김태균 |[ch06](https://well-bagel-d92.notion.site/6-ch07-1fe33c9b1bdd80f29780d4ed16a4e810?source=copy_link)|
+| 6주차 | 박비원 ||
+| 6주차 | 전진혁 ||
